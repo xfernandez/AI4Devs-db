@@ -95,3 +95,6 @@ erDiagram
 Comprobar que todas las tablas se han creado correctamente
 Verificar que los índices están en su lugar
 Confirmar que las relaciones funcionan como se espera
+
+
+- Ahora vamos a usar PGAdmin para verificar que nos podemos conectar y que la estructura es la correcta
